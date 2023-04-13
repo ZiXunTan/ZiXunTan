@@ -1,5 +1,8 @@
 ### Hi there 👋
+- 🔭 Software Tester @ EPIS GmbH
+- 📫 How to reach me: zixun.tan@epis-gmbh.de
 
+<a href="https://www.linkedin.com/in/zi-xun-tan/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **ZiXunTan/ZiXunTan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
